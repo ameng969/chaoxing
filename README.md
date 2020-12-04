@@ -119,7 +119,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 1. 请勿使用本项目损害他人或集团利益
 
 以上条款，若使用者违反，后果自行承担与作者本人无关！
-
+撒旦倒萨啊是大
 ## 鸣谢
 
 [mkdir700](https://github.com/mkdir700)
@@ -130,7 +130,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 | ------------------------------------------------------- | ---------- | ---------------------------------------------- |
 | https://github.com/mkdir700/chaoxing_auto_sign          | Python     |  超星学习通自动签到脚本&多用户多任务&API      |
 | https://github.com/Wzb3422/auto-sign-chaoxing           | TypeScript | 超星学习通自动签到，梦中刷网课       |
-| https://github.com/Huangyan0804/AutoCheckin             | Python     | 学习通自动签到，支持手势，二维码，位置，拍照等 |
+| https://github.com/Huangyan0804/AutoCheckin  222           | Python     | 学习通自动签到，支持手势，二维码，位置，拍照等 |
 | https://github.com/aihuahua-522/chaoxing-testforAndroid | Java       | 学习通（超星）自动签到               |
 | https://github.com/yuban10703/chaoxingsign              | Python     | 超星学习通自动签到                   |
 
@@ -138,7 +138,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 
 ## 紧急通知
 
-请一定要根据配置说明配置计222划时间；防止被判定滥用。
+请一定要根据配置说明配置计222划时间；防止被判定滥用43234r
 <br>
 由于本项目被大量fork并启动actions功能，占用github官方服务器大量资源。部分用户反映无法签到，actions功能被禁止等问题。但是大部分用户仍然正常可以使用；解决方法：1.使用使用Travis Ci运行。学业繁忙，不予教程。2.请访问我的服务器 https://cx.clost.net 但并不保证其稳定性。（目前源码臃肿，修改删减后上传）3.用自己的服务器运行其中的py脚本。
 
