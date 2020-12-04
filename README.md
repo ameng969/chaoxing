@@ -1,4 +1,4 @@
-## 1介绍
+## 111介绍
 [![](https://img.shields.io/badge/%E8%B6%85%E6%98%9F-%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0-orange?link=https://www.choaoxing.com&link=https://github.com/Closty/chaoxing)](https://github.com/Closty/chaoxing)
 [![](https://img.shields.io/badge/by-%E7%93%B6%E5%AD%90-green?link=https://www.clost.net)](https://www.clost.net/default/871.html)
 ![chaoxing](https://github.com/Closty/chaoxing/workflows/chaoxing/badge.svg)
@@ -138,7 +138,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 
 ## 紧急通知
 
-请一定要根据配置说明配置计划时间；防止被判定滥用。
+请一定要根据配置说明配置计222划时间；防止被判定滥用。
 <br>
 由于本项目被大量fork并启动actions功能，占用github官方服务器大量资源。部分用户反映无法签到，actions功能被禁止等问题。但是大部分用户仍然正常可以使用；解决方法：1.使用使用Travis Ci运行。学业繁忙，不予教程。2.请访问我的服务器 https://cx.clost.net 但并不保证其稳定性。（目前源码臃肿，修改删减后上传）3.用自己的服务器运行其中的py脚本。
 
